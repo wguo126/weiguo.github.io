@@ -20,6 +20,8 @@ Our group design an uneven bar gynmastic robot:
   * Use the position and velocity of the centroid to determine the time of releasing
 ![](../images/gif1.gif)
 
+
+
 ## Pose Tracker
 ![](../images/hackaday.png) [hackaday project](https://hackaday.io/project/172394-pose-tracker)
 
