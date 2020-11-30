@@ -32,6 +32,19 @@ Design a rotating camera to track human movement and evaluate posture
 - Algorithm: PoseNet, tensorflow.js
 - Use visual angle to track movements that increase robustness
 
+<br><br><br>
+
+## Glossy Percpetion
+![](../images/slides.PNG) [Demo Slides]()
+
+Use statistics to understand glossy perception
+- use subband analysis and histogram manipulation (s-curve, λ-curve) to estimate the glossiness of texture
+- find the relations of subband histogram with generalized Gaussian function of textures
+![](../images/Picture2.png)
+
+<br><br><br>
+
+
 
 
 
