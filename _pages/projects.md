@@ -23,7 +23,7 @@ Our group design an uneven bar gynmastic robot:
 <br><br><br>
 
 ## Pose Tracker
-![](../images/hackaday.png) [hackaday project](https://hackaday.io/project/172394-pose-tracker)
+![](../images/hackaday.png) [Hackaday Project](https://hackaday.io/project/172394-pose-tracker)
 
 ![](../images/youtube.PNG) [Demo Video](https://www.youtube.com/watch?v=8D80CxtRYak&feature=emb_logo)
 
