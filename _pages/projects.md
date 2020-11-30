@@ -13,7 +13,7 @@ Our group design an uneven bar gynmastic robot:
   * Top link is "hand", use pancake motor driven by ESC to grab the bar
   * Middle part is "muscles", contains two brushless motors driven by amplifier to rotate between links
   * Bottom part is "brain", contains E-stop, battery, Relay, two Roboteq amplifier.
-![](../images/Picture1.png =250x)
+![](../images/Picture1.png)
 - MatLab simulation of Giant Swing and release-catch
   * Use Euler-Lagrange equations to build the frame of a triple pendulum, simulate the swing and collision phase
   * Use energy-shape controller to pump up the robot
