@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Visiting Assistant Professor with the Department of Mathematics at Michigan State University (MSU).
+I am currently a [Visiting Assistant Professor](https://math.msu.edu/directory/personalpage?id=111117030) with [Department of Mathematics](https://math.msu.edu/) at [Michigan State University](https://msu.edu/) (MSU).
 
 
 
 Education
 ======
-- Ph. D. in Applied Mathematics, Tsinghu University, 2018.
+- Ph. D. in Applied Mathematics, Tsinghua University, 2018.
 Advisor: Prof. Wen-An Yong
 
-- B. Sc. in Mathematics and Applied Mathematics, Tsinghu University, 2013.
+- B. Sc. in Mathematics and Applied Mathematics, Tsinghua University, 2013.
 
 
 
