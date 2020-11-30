@@ -7,6 +7,7 @@ author_profile: true
 
 ## Robotic Design Studio (RDS)
 ![](../images/slides.PNG) [Demo Slides]()
+
 Our group design an uneven bar gynmastic robot:
 - Complete mechanical and electrical design of a three link robot
   * Top link is "hand", use pancake motor driven by ESC to grab the bar
@@ -21,7 +22,9 @@ Our group design an uneven bar gynmastic robot:
 
 ## Pose Tracker
 ![](../images/hackaday.png) [hackaday project](https://hackaday.io/project/172394-pose-tracker)
+
 ![](../images/youtube.PNG) [Demo Video](https://www.youtube.com/watch?v=8D80CxtRYak&feature=emb_logo)
+
 Design a rotating camera to track human movement and evaluate posture
 - Components: ESP CAM, Mini Pan-Tilt Kit, and FTDI
 - Algorithm: PoseNet, tensorflow.js
