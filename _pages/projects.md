@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Robotic Design Studio (RDS)
-![](../images/slides.png) [Demo Slides]()
+![](../images/slides.PNG) [Demo Slides]()
 
 Our group design an uneven bar gynmastic robot:
 - Complete mechanical and electrical design of a three link robot
