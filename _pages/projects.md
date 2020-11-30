@@ -18,7 +18,7 @@ Our group design an uneven bar gynmastic robot:
   * Use Euler-Lagrange equations to build the frame of a triple pendulum, simulate the swing and collision phase
   * Use energy-shape controller to pump up the robot
   * Use the position and velocity of the centroid to determine the time of releasing
-![](../images/gif1.gif =250x)
+![](../images/gif1.gif =250)
 
 ## Pose Tracker
 
