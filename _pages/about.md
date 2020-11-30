@@ -8,22 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a [Visiting Assistant Professor](https://math.msu.edu/directory/personalpage?id=111117030) with [Department of Mathematics](https://math.msu.edu/) at [Michigan State University](https://msu.edu/) (MSU).
+Hello, I am Jiabin Liu. I am a master student in Electrical Engineering Program at Northwestern University.
 
+My research projects include power electronics, image processing and robotic design.
 
+My dream is to be an excellent engineer, inventor and artisit.
 
 Education
 ======
-- Ph. D. in Applied Mathematics, Tsinghua University, 2018.
-Advisor: Prof. Wen-An Yong
-
-- B. Sc. in Mathematics and Applied Mathematics, Tsinghua University, 2013.
-
-
+- M.S. in Electrical Engineering, Northwestern University, 09/2019 - present
+- M.E. in Electrical Engineering, Tsinghua University, 09/2016 - 07/2019
+- B.E. in Electrical Engineering and Automation, North China Electric Power University, 09/2011 - 07/2015
 
 Research Interests
 ======
-- Machine learning and data-driven modeling
-- Numerical methods for partial differential equations
-- Scientific computing and numerical analysis
+- Robotic Design
+- Image Processing
+- Haptic Perception
+
 

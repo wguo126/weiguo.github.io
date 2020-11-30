@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Juntao Huang"
+title                    : "Jiabin Liu"
 title_separator          : "-"
-name                     : &name "Juntao Huang"
-description              : &description "Visiting Assistant Professor"
+name                     : &name "Jiabin Liu"
+description              : &description "Master Student at Northwestern University"
 url                      : https://juntaohuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "juntaohuang.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juntao Huang"
+  name             : "Jiabin Liu"
   avatar           : "profile.png"
-  bio              : "Visiting Assistant Professor"
-  location         : "East Lansing, MI"
+  bio              : "Master Student at Northwestern University"
+  location         : "Evanston, IL"
   employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Juntao_Huang2"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/JuntaoHuang"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
