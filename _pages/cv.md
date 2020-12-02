@@ -14,6 +14,7 @@ Internship
 * Blip Energy: Electrical Engineer Internship
   * Summer 2020
   * Product survey, Hardware design
+  
 Skills
 ======
 * Programming Language: MatLab, Python, C, HTML, CSS, JavaScript
