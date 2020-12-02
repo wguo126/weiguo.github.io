@@ -47,7 +47,7 @@ author_profile: true
 
 ![](../images/215.jpg)
 
-## [Gansu Province甘肃](https://zh.wikipedia.org/wiki/%E7%94%98%E8%82%83%E7%9C%81)
+## [Gansu 甘肃](https://zh.wikipedia.org/wiki/%E7%94%98%E8%82%83%E7%9C%81)
 
 ![](../images/311.jpg)
 
@@ -57,12 +57,12 @@ author_profile: true
 
 ![](../images/314.jpg)
 
-## [Tibet西藏](https://en.wikipedia.org/wiki/Tibet_Autonomous_Region)
+## [Tibet 西藏](https://en.wikipedia.org/wiki/Tibet_Autonomous_Region)
 ![](../images/411.jpg)
 
 ![](../images/412.jpg)
 
-## [Xinjiang新疆](https://en.wikipedia.org/wiki/Xinjiang)
+## [Xinjiang 新疆](https://en.wikipedia.org/wiki/Xinjiang)
 
 ![](../images/511.jpg)
 
