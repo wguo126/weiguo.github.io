@@ -16,7 +16,7 @@ redirect_from:
 
 Internship
 ======
-* Blip Energy: Electrical Engineer Internship
+* [Blip Energy](https://www.blipenergy.com/): Electrical Engineer Internship
   * Summer 2020
   * Product survey, Hardware design
   
@@ -28,9 +28,9 @@ Skills
 
 Publications
 ======
-* Soft switching analysis of dual active bridge DC-DC converter based on GaN-HEMT device
+* [Soft switching analysis of dual active bridge DC-DC converter based on GaN-HEMT device](https://drive.google.com/file/d/1tRXtXeGDjbZb3xmCJcxn4WQd9o5B7JGL/view?usp=sharing)
   
 Teaching
 ======
-* Teaching Assistant- Engineering Analysis 1 (GEN ENG 205-1)
+* Teaching Assistant- Engineering Analysis 1 ([GEN ENG 205-1](https://www.mccormick.northwestern.edu/electrical-computer/academics/courses/descriptions/205-EA-1-1.html))
 
