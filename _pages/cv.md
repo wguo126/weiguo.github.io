@@ -11,8 +11,8 @@ redirect_from:
 
 
 ## [CV](https://drive.google.com/file/d/18gMm_l0Ol9UbHsmRiIyPgEh5rbcqAotY/view?usp=sharing)
-======
 
+<br><br>
 Internship
 ======
 * Blip Energy: Electrical Engineer Internship
