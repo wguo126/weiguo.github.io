@@ -46,6 +46,16 @@ Use statistics to understand glossy perception
 
 ## GaN-HEMT performance on DC-DC converter
 ![](../images/slides.PNG) [Demo Slides]()
+- Soft-switching time calculation
+ * Established a mathematical model by constructing an accurate numerical fitting function that characterizes the relationship between voltage and parasitic capacitance
+ * Investigated partial soft-switching with insufficient time and voltage inverse with abundant deadtime
+ * construct power loss model with negative voltage turning-off feature of GaN-HEMT
+![](../images/Picture3.png)
+- Established power loss model with frequency and voltage range
+ * optimized inductance and transformer ratio under wide voltage range and frequency
+ * compared power loss, soft-switching range of MOSFET and GaN-HEMT
+![](../images/Picture4.png)
+
 
 
 
