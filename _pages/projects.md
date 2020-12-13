@@ -57,7 +57,6 @@ Use statistics to understand glossy perception
   * compared power loss, soft-switching range of MOSFET and GaN-HEMT
 ![](../images/Picture4.png)
 
-Publication: Jiabin Liu, Xi Xiao, Hongwei Mei, Soft switching analysis of dual active bridge DC-DC converter based on GaN-HEMT device
 
 
 
