@@ -35,7 +35,7 @@ Design a rotating camera to track human movement and evaluate posture
 <br><br><br>
 
 ## Glossy Percpetion
-<!--![](../images/slides.PNG) [Demo Slides]()
+<!--![](../images/slides.PNG) [Demo Slides]() -->
 
 Use statistics to understand glossy perception
 - use subband analysis and histogram manipulation (s-curve, λ-curve) to estimate the glossiness of texture
