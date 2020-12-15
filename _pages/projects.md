@@ -45,7 +45,7 @@ Use statistics to understand glossy perception
 <br><br><br>
 
 ## GaN-HEMT performance on DC-DC converter
-![](../images/slides.PNG) [Demo Slides]()
+![](../images/slides.PNG) [Demo Slides](https://drive.google.com/file/d/18suBW05lz-ihQeUvalAgY412FZmd36Zv/view?usp=sharing)
 - Soft-switching time calculation
   * Established a mathematical model by constructing an accurate numerical fitting function that characterizes the relationship between voltage and parasitic capacitance
   * Investigated partial soft-switching with insufficient time and voltage inverse with abundant deadtime
