@@ -28,7 +28,8 @@ Skills
 
 Publications
 ======
-* [Soft switching analysis of dual active bridge DC-DC converter based on GaN-HEMT device](https://drive.google.com/file/d/1tRXtXeGDjbZb3xmCJcxn4WQd9o5B7JGL/view?usp=sharing)
+* [Jiabin Liu, Xi Xiao, Hongwei Mei, Soft switching analysis of dual active bridge DC-DC converter based on GaN-HEMT
+device, in Transactions of China Electrotechnical Society,2019,34(S2):534-542.](https://drive.google.com/file/d/1tRXtXeGDjbZb3xmCJcxn4WQd9o5B7JGL/view?usp=sharing)
   
 Teaching
 ======
