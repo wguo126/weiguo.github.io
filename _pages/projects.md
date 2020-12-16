@@ -9,6 +9,7 @@ author_profile: true
 ![](../images/slides.PNG) [Demo Slides](https://drive.google.com/file/d/18LP7wJZWtEOltBx4jI_jX05HiQ8rBEed/view?usp=sharing)
 
 Our group design an uneven bar gynmastic robot:
+![](../images/Robotrun1.gif)
 - Complete mechanical and electrical design of a three link robot
   * Top link is "hand", use pancake motor driven by ESC to grab the bar
   * Middle part is "muscles", contains two brushless motors driven by amplifier to rotate between links
