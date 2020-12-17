@@ -31,7 +31,7 @@ Design a rotating camera to track human movement and evaluate posture
 - Components: ESP CAM, Mini Pan-Tilt Kit, and FTDI
 - Algorithm: PoseNet, tensorflow.js
 - Use visual angle to track movements that increase robustness.
-![](../images/face.gif)
+- ![](../images/face.gif)
 <br><br><br>
 
 ## Glossy Percpetion
