@@ -22,7 +22,7 @@ author_profile: true
 
 ## Falling star
 
-![](../images/Picture1.png)
+![](../images/P1.png)
 
 
 ## Upper Penisula
