@@ -12,7 +12,7 @@ Hello, I am Jiabin Liu. I am a master student in Electrical Engineering Program 
 
 My research projects include power electronics, image processing and robotic design.
 
-My dream is to be an excellent engineer, inventor and artisit.
+My dream is to be an excellent engineer, inventor and artist.
 
 Education
 ======
