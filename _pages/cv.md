@@ -37,6 +37,6 @@ Teaching
 
 Coursera
 ======
-* Programming for Everybody (Getting Started with Python)[certificate](https://drive.google.com/file/d/1NsDi35YmmyrRZzRvZYwpzqL6JZCXjfhB/view?usp=sharing)
-* Neural Networks and Deep Learning [certificate](https://drive.google.com/file/d/1CLEKHAtC-y3wABSv4LLy_FL0egGy5GNJ/view?usp=sharing)
+* Programming for Everybody (Getting Started with Python) [Certificate](https://drive.google.com/file/d/1NsDi35YmmyrRZzRvZYwpzqL6JZCXjfhB/view?usp=sharing)
+* Neural Networks and Deep Learning [Certificate](https://drive.google.com/file/d/1CLEKHAtC-y3wABSv4LLy_FL0egGy5GNJ/view?usp=sharing)
 
