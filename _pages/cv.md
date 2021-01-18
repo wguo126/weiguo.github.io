@@ -35,3 +35,8 @@ Teaching
 ======
 * Teaching Assistant- Engineering Analysis 1 ([GEN ENG 205-1](https://www.mccormick.northwestern.edu/electrical-computer/academics/courses/descriptions/205-EA-1-1.html))
 
+Coursera
+======
+* Programming for Everybody (Getting Started with Python)[certificate](https://drive.google.com/file/d/1NsDi35YmmyrRZzRvZYwpzqL6JZCXjfhB/view?usp=sharing)
+* Neural Networks and Deep Learning [certificate](https://drive.google.com/file/d/1CLEKHAtC-y3wABSv4LLy_FL0egGy5GNJ/view?usp=sharing)
+
