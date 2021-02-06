@@ -5,7 +5,13 @@ permalink: /personal/
 author_profile: true
 ---
 
-## Northwestern University
+## BigSnow Winter 2021
+![](../images/snow1.jpg)
+
+![](../images/snow2.jpg)
+
+
+## Northwestern University 2020
 ![](../images/011.jpg)
 
 ![](../images/012.jpg)
