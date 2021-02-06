@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Juntao Huang"
   avatar           : "profile.png"
-  bio              : "Visiting Assistant Professor in the Department of Mathematics at Michigan State University"
+  bio              : "Visiting Assistant Professor at Michigan State University"
   location         : "East Lansing, Michigan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=zh-CN"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Juntao_Huang2"
