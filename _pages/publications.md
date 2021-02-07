@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=zh-CN)
+[Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en)
 
 Preprints
 ======
