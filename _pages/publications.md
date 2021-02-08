@@ -17,6 +17,7 @@ Preprints
 
 Publications in Refereed Journals
 ======
+
 19\. W. Zhao, **J. Huang** and W.-A. Yong. *Lattice Boltzmann method for stochastic convection-diffusion equations*, SIAM/ASA Journal on Uncertainty Quantification, accepted.
 
 18\. Z. Tao, **J. Huang**, Y. Liu, W. Guo,  and Y. Cheng. *An adaptive multiresolution ultra-weak discontinuous Galerkin method for nonlinear Schrodinger equations*, Communications on Applied Mathematics and Computation, accepted. [\[link\]](https://arxiv.org/abs/2007.01471)
