@@ -15,10 +15,10 @@ Preprints
 
 20\. W. Guo, **J. Huang**, Z. Tao and Y. Cheng. *An adaptive sparse grid local discontinuous Galerkin method for Hamilton-Jacobi equations in high dimensions*, arXiv preprint arXiv:2006.05250, 2020, submitted. [\[link\]](https://arxiv.org/abs/2006.05250)
 
-19\. W. Zhao, **J. Huang** and W.-A. Yong. *Lattice Boltzmann method for stochastic convection-diffusion equations*, submitted.
-
 Publications in Refereed Journals
 ======
+19\. W. Zhao, **J. Huang** and W.-A. Yong. *Lattice Boltzmann method for stochastic convection-diffusion equations*, SIAM/ASA Journal on Uncertainty Quantification, accepted.
+
 18\. Z. Tao, **J. Huang**, Y. Liu, W. Guo,  and Y. Cheng. *An adaptive multiresolution ultra-weak discontinuous Galerkin method for nonlinear Schrodinger equations*, Communications on Applied Mathematics and Computation, accepted. [\[link\]](https://arxiv.org/abs/2007.01471)
 
 17\. **J. Huang**, Y. Liu, W. Guo, Z. Tao and Y. Cheng. *An adaptive multiresolution interior penalty discontinuous Galerkin method for wave equations in second order form*, Journal of Scientific Computing, 85 (13), 2020. [\[link\]](https://link.springer.com/article/10.1007/s10915-020-01322-w)
