@@ -13,10 +13,9 @@ Preprints
 
 21\. **J. Huang**, Z. Ma, Y. Zhou and W.-A. Yong. *Learning Interpretable and Thermodynamically Stable Partial Differential Equations*, arXiv preprint arXiv:2009.13415, 2020, submitted. [\[link\]](https://arxiv.org/abs/2009.13415) 
 
-20\. W. Guo, **J. Huang**, Z. Tao and Y. Cheng. *An adaptive sparse grid local discontinuous Galerkin method for Hamilton-Jacobi equations in high dimensions*, arXiv preprint arXiv:2006.05250, 2020, submitted. [\[link\]](https://arxiv.org/abs/2006.05250)
-
 Publications in Refereed Journals
 ======
+20\. W. Guo, **J. Huang**, Z. Tao and Y. Cheng. *An adaptive sparse grid local discontinuous Galerkin method for Hamilton-Jacobi equations in high dimensions*, Journal of Computational Physics, accepted. [\[link\]](https://arxiv.org/abs/2006.05250)
 
 19\. W. Zhao, **J. Huang** and W.-A. Yong. *Lattice Boltzmann method for stochastic convection-diffusion equations*, SIAM/ASA Journal on Uncertainty Quantification, accepted.
 
