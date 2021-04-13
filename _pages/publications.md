@@ -9,7 +9,7 @@ author_profile: true
 
 Preprints
 ======
-23\. **J. Huang**, Y. Liu, Y. Liu, Z. Tao and Y. Cheng. *A class of adaptive multiresolution ultra-weak discontinuous Galerkin methods for some nonlinear dispersive wave equations*, submitted, 2021. [\[link\]](https://arxiv.org/abs/2104.05523)
+23\. **J. Huang**, Y. Liu, Y. Liu, Z. Tao and Y. Cheng. *A class of adaptive multiresolution ultra-weak discontinuous Galerkin methods for some nonlinear dispersive wave equations*, arXiv preprint arXiv:2104.05523, submitted, 2021. [\[link\]](https://arxiv.org/abs/2104.05523)
 
 22\. **J. Huang**, Y. Zhou and W.-A. Yong. *Data-driven discovery of multiscale chemical reactions governed by the law of mass action*, arXiv preprint arXiv:2101.06589, submitted, 2021. [\[link\]](https://arxiv.org/abs/2101.06589)
 
