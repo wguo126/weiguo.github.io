@@ -19,7 +19,7 @@ Publications in Refereed Journals
 ======
 20\. W. Guo, **J. Huang**, Z. Tao and Y. Cheng. *An adaptive sparse grid local discontinuous Galerkin method for Hamilton-Jacobi equations in high dimensions*, Journal of Computational Physics, 436, 110294, 2021. [\[link\]](https://www.sciencedirect.com/science/article/pii/S0021999121001893)
 
-19\. W. Zhao, **J. Huang** and W.-A. Yong. *Lattice Boltzmann method for stochastic convection-diffusion equations*, SIAM/ASA Journal on Uncertainty Quantification, accepted.
+19\. W. Zhao, **J. Huang** and W.-A. Yong. *Lattice Boltzmann method for stochastic convection-diffusion equations*, SIAM/ASA Journal on Uncertainty Quantification, accepted, 2021.
 
 18\. Z. Tao, **J. Huang**, Y. Liu, W. Guo,  and Y. Cheng. *An adaptive multiresolution ultra-weak discontinuous Galerkin method for nonlinear Schrodinger equations*, Communications on Applied Mathematics and Computation, 1-24, 2021. [\[link\]](https://link.springer.com/article/10.1007/s42967-020-00096-0)
 
