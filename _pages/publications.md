@@ -13,10 +13,11 @@ Preprints
 
 22\. **J. Huang**, Y. Zhou and W.-A. Yong. *Data-driven discovery of multiscale chemical reactions governed by the law of mass action*, arXiv preprint arXiv:2101.06589, submitted, 2021. [\[link\]](https://arxiv.org/abs/2101.06589)
 
-21\. **J. Huang**, Z. Ma, Y. Zhou and W.-A. Yong. *Learning Interpretable and Thermodynamically Stable Partial Differential Equations*, arXiv preprint arXiv:2009.13415, submitted, 2020. [\[link\]](https://arxiv.org/abs/2009.13415) 
-
 Publications in Refereed Journals
 ======
+21\. **J. Huang**, Z. Ma, Y. Zhou and W.-A. Yong. *Learning Thermodynamically Stable and Galilean Invariant Partial Differential Equations for Non-equilibrium Flows
+*, Journal of Non-Equilibrium Thermodynamics, accepted, 2021. [\[link\]](https://arxiv.org/abs/2009.13415)
+
 20\. W. Guo, **J. Huang**, Z. Tao and Y. Cheng. *An adaptive sparse grid local discontinuous Galerkin method for Hamilton-Jacobi equations in high dimensions*, Journal of Computational Physics, 436, 110294, 2021. [\[link\]](https://www.sciencedirect.com/science/article/pii/S0021999121001893)
 
 19\. W. Zhao, **J. Huang** and W.-A. Yong. *Lattice Boltzmann method for stochastic convection-diffusion equations*, SIAM/ASA Journal on Uncertainty Quantification, accepted, 2021.
