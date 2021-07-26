@@ -5,12 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Current Course**
-
 - **Instructor**: MTH 124 (online), *Survey of Calculus I*, Michigan State University, Spring 2021.
-
-**Past Courses**
-
 - **Instructor**: MTH 124 (2 sections), *Survey of Calculus I*, Michigan State University, Spring 2020.
 - **Instructor**: MTH 124, *Survey of Calculus I*, Michigan State University, Fall 2019.
 - **Instructor**: MTH 124 (3 sections), *Survey of Calculus I*, Michigan State University, Spring 2019.
