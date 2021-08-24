@@ -12,10 +12,10 @@ I am currently a [visiting assistant professor](https://math.msu.edu/directory/P
 
 Education
 ======
-- Ph.D. in Applied Mathematics (with honors), Tsinghua University, China, September 2013 - July 2018. <br>
+- Ph.D. in Applied Mathematics (with honors), Tsinghua University, China, July 2018. <br>
   Advisor: [Prof. Wen-An Yong](https://scholar.google.com/citations?user=w4fQqqkAAAAJ&hl=en)
-- B.S. in Mathematics, Department of Mathematical Science, Tsinghua University, China, September 2010 - July 2013.
-- B.E. in Engineering Mechanics, Tsinghua University, China, September 2009 - July 2013.
+- B.Sc. in Mathematics, Tsinghua University, China, July 2013.
+- B.Eng. in Engineering Mechanics, Tsinghua University, China, July 2013.
 
 Professional Experience
 ======
