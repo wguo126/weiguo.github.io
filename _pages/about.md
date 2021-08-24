@@ -12,20 +12,22 @@ I am currently a [visiting assistant professor](https://math.msu.edu/directory/P
 
 Education
 ======
-- Ph.D. in Applied Mathematics, Tsinghua University, China, September 2013 - July 2018. <br>
+- Ph.D. in Applied Mathematics (with honors), Tsinghua University, China, September 2013 - July 2018. <br>
   Advisor: [Prof. Wen-An Yong](https://scholar.google.com/citations?user=w4fQqqkAAAAJ&hl=en)
 - B.S. in Mathematics, Department of Mathematical Science, Tsinghua University, China, September 2010 - July 2013.
 - B.E. in Engineering Mechanics, Tsinghua University, China, September 2009 - July 2013.
 
 Professional Experience
 ======
-- Visiting Assistant Professor, Department of Mathematics, Michigan State University, September 2018 - present. 
+- Visiting Assistant Professor, Department of Mathematics, Michigan State University, September 2018 - present. <br>
+  Mentor: [Prof. Yingda Cheng](https://sites.google.com/view/yingda-cheng/) and [Prof. Andrew J. Christlieb](http://www.the-christlieb-group.org/)
 - Visiting Ph.D. student, Division of Applied Mathematics, Brown University, September 2015 - September 2016. <br>
   Mentor: [Prof. Chi-Wang Shu](http://www.dam.brown.edu/people/shu/)
 
 Research Interests
 ======
-- Machine learning and data-driven modeling
-- Sparse grid methods for high-dimensional PDEs
-- High-order schemes (Discontinuous Galerkin, WENO) for hyperbolic systems with stiff source terms
-- Boundary treatment of kinetic models
+- Machine learning moment closures for kinetic models
+- Adaptive sparse grid discontinuous Galerkin methods for nonlinear PDEs
+- Structure-preserving time discretizations for hyperbolic balance laws
+- High order numerical boundary conditions for hyperbolic equations
+- Boundary schemes of lattice Boltzmann method
