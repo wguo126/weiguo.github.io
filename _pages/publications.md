@@ -9,9 +9,11 @@ author_profile: true
 
 Preprints
 ======
-25\. **J. Huang**, Y. Cheng, A. Christlieb, L. Roberts, and W.-A. Yong. [Machine learning moment closure models for the radiative transfer equation II: enforcing global hyperbolicity in gradient based closures](https://arxiv.org/abs/2105.14410), *arXiv preprint arXiv:2105.14410*, submitted, 2021.
+26\. **J. Huang**, J. Huang, Y. Cheng, A. J. Christlieb, and L. F. Roberts. Machine learning moment closure models for the radiative transfer equation III: enforcing hyperbolicity and physical characteristic speeds, *available upon request*, 2021.
 
-24\. **J. Huang**, Y. Cheng, A. Christlieb, and L. Roberts. [Machine learning moment closure models for the radiative transfer equation I: directly learning a gradient based closure](https://arxiv.org/abs/2105.05690), *arXiv preprint arXiv:2105.05690*, submitted, 2021.
+25\. **J. Huang**, Y. Cheng, A. J. Christlieb, L. F. Roberts, and W.-A. Yong. [Machine learning moment closure models for the radiative transfer equation II: enforcing global hyperbolicity in gradient based closures](https://arxiv.org/abs/2105.14410), *arXiv preprint arXiv:2105.14410*, submitted, 2021.
+
+24\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. [Machine learning moment closure models for the radiative transfer equation I: directly learning a gradient based closure](https://arxiv.org/abs/2105.05690), *arXiv preprint arXiv:2105.05690*, submitted, 2021.
 
 23\. **J. Huang**, Y. Liu, Y. Liu, Z. Tao, and Y. Cheng. [A class of adaptive multiresolution ultra-weak discontinuous Galerkin methods for some nonlinear dispersive wave equations](https://arxiv.org/abs/2104.05523), *arXiv preprint arXiv:2104.05523*, submitted, 2021.
 
