@@ -26,8 +26,8 @@ Professional Experience
 
 Research Interests
 ======
-- Machine learning moment closures for kinetic models
 - Adaptive sparse grid discontinuous Galerkin methods for nonlinear PDEs
+- Structure-preserving machine learning moment closures for kinetic models
 - Structure-preserving time discretizations for hyperbolic balance laws
 - High order numerical boundary conditions for hyperbolic equations
 - Boundary schemes of lattice Boltzmann method
