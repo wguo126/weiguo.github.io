@@ -26,6 +26,7 @@ Professional Experience
 
 Research Interests
 ======
+My research interests mainly focus on scientific computing, numerical analysis and scientific machine learning. Topics of special interests include:
 - Structure-preserving machine learning moment closures for kinetic models
 - Adaptive sparse grid discontinuous Galerkin methods for nonlinear PDEs
 - Structure-preserving time discretizations for hyperbolic balance laws
