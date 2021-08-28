@@ -1,9 +1,11 @@
 ---
 layout: archive
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
-Invited talks at department seminars/colloquia
+
+## Invited talks at department seminars/colloquia
 ======
 - Seminar, Texas Tech University, USA, Apr, 2021 (virtual).
 - Seminar, Michigan Technological University, USA, Nov, 2020 (virtual).    
@@ -16,7 +18,7 @@ Invited talks at department seminars/colloquia
 - Seminar, Jiangsu Normal University, Jiangsu, China, May, 2018.
 - Seminar, Tsinghua University, Beijing, China, Dec, 2017.
 
-Invited talks at conference minisymposia
+## Invited talks at conference minisymposia
 ======
 - 4th Annual Meeting of the SIAM Texas-Louisiana Section, Nov, 2021.
 - International Conference on Spectral and High Order Methods (ICOSAHOM 2021), Vienna, Austria, July, 2021 (virtual).
@@ -24,7 +26,7 @@ Invited talks at conference minisymposia
 - SIAM Conference on Analysis of PDEs, USA, Dec, 2019.
 - The Fourth International Workshop on the Development and Application of High-order Numerical Methods, Nanjing University, China, June, 2018.
 
-Other presentations
+## Other presentations
 ======
 - Poster presentation, Workshop on Mathematical Machine Learning and Application, Penn State University, USA, Dec, 2020 (virtual).
 - Seminar talk, ICERM postdoc/grad student seminar, USA, Oct, 2020 (virtual).
