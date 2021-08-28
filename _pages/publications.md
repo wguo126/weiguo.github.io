@@ -7,8 +7,7 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en)
 
-Preprints
-======
+## Preprints
 26\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. Machine learning moment closure models for the radiative transfer equation III: enforcing hyperbolicity and physical characteristic speeds, *available upon request*, 2021.
 
 25\. **J. Huang**, Y. Cheng, A. J. Christlieb, L. F. Roberts, and W.-A. Yong. [Machine learning moment closure models for the radiative transfer equation II: enforcing global hyperbolicity in gradient based closures](https://arxiv.org/abs/2105.14410), *arXiv preprint arXiv:2105.14410*, submitted, 2021.
@@ -19,8 +18,7 @@ Preprints
 
 22\. **J. Huang**, Y. Zhou, and W.-A. Yong. [Data-driven discovery of multiscale chemical reactions governed by the law of mass action](https://arxiv.org/abs/2101.06589), *arXiv preprint arXiv:2101.06589*, submitted, 2021.
 
-Publications in Refereed Journals
-======
+## Publications in Refereed Journals
 21\. **J. Huang**, Z. Ma, Y. Zhou, and W.-A. Yong. [Learning Thermodynamically Stable and Galilean Invariant Partial Differential Equations for Non-equilibrium Flows](https://www.degruyter.com/document/doi/10.1515/jnet-2021-0008/html), *Journal of Non-Equilibrium Thermodynamics*, 2021.
 
 20\. W. Guo, **J. Huang**, Z. Tao, and Y. Cheng. [An adaptive sparse grid local discontinuous Galerkin method for Hamilton-Jacobi equations in high dimensions](https://www.sciencedirect.com/science/article/pii/S0021999121001893), *Journal of Computational Physics*, 436, 110294, 2021.
