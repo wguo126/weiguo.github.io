@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Invited talks"
 permalink: /talks/
 author_profile: true
 ---
