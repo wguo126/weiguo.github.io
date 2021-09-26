@@ -16,9 +16,9 @@ author_profile: true
 
 23\. **J. Huang**, Y. Liu, Y. Liu, Z. Tao, and Y. Cheng. [A class of adaptive multiresolution ultra-weak discontinuous Galerkin methods for some nonlinear dispersive wave equations](https://arxiv.org/abs/2104.05523), *arXiv preprint arXiv:2104.05523*, submitted, 2021.
 
-22\. **J. Huang**, Y. Zhou, and W.-A. Yong. [Data-driven discovery of multiscale chemical reactions governed by the law of mass action](https://arxiv.org/abs/2101.06589), *arXiv preprint arXiv:2101.06589*, submitted, 2021.
-
 ## Publications in Refereed Journals
+22\. **J. Huang**, Y. Zhou, and W.-A. Yong. [Data-driven discovery of multiscale chemical reactions governed by the law of mass action](https://arxiv.org/abs/2101.06589), *Journal of Computational Physics*, accepted, 2021.
+
 21\. **J. Huang**, Z. Ma, Y. Zhou, and W.-A. Yong. [Learning Thermodynamically Stable and Galilean Invariant Partial Differential Equations for Non-equilibrium Flows](https://www.degruyter.com/document/doi/10.1515/jnet-2021-0008/html), *Journal of Non-Equilibrium Thermodynamics*, 2021.
 
 20\. W. Guo, **J. Huang**, Z. Tao, and Y. Cheng. [An adaptive sparse grid local discontinuous Galerkin method for Hamilton-Jacobi equations in high dimensions](https://www.sciencedirect.com/science/article/pii/S0021999121001893), *Journal of Computational Physics*, 436, 110294, 2021.
