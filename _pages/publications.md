@@ -19,7 +19,7 @@ author_profile: true
 
 22\. **J. Huang**, Y. Zhou, and W.-A. Yong. [Data-driven discovery of multiscale chemical reactions governed by the law of mass action](https://www.sciencedirect.com/science/article/pii/S0021999121006380), *Journal of Computational Physics*, 448, 110743, 2022.
 
-21\. **J. Huang**, Z. Ma, Y. Zhou, and W.-A. Yong. [Learning Thermodynamically Stable and Galilean Invariant Partial Differential Equations for Non-equilibrium Flows](https://www.degruyter.com/document/doi/10.1515/jnet-2021-0008/html), *Journal of Non-Equilibrium Thermodynamics*, 2021.
+21\. **J. Huang**, Z. Ma, Y. Zhou, and W.-A. Yong. [Learning Thermodynamically Stable and Galilean Invariant Partial Differential Equations for Non-equilibrium Flows](https://www.degruyter.com/document/doi/10.1515/jnet-2021-0008/html), *Journal of Non-Equilibrium Thermodynamics*, 46 (4), 355-370, 2021.
 
 20\. W. Guo, **J. Huang**, Z. Tao, and Y. Cheng. [An adaptive sparse grid local discontinuous Galerkin method for Hamilton-Jacobi equations in high dimensions](https://www.sciencedirect.com/science/article/pii/S0021999121001893), *Journal of Computational Physics*, 436, 110294, 2021.
 
